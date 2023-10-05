@@ -1,9 +1,10 @@
 <h1>
   <p align="center">Hi, I'm Mazway!
 </h1>
-<p>I work as <strong>Quality Assurance Automation Specialist</strong>.<br/>Focused on Test and Process Automation<br> Love to share knowledge with peers and learn something new every day.<br></p><br/>
+<p>I work as <strong>Quality Assurance Automation</strong>.<br/>Focused on Test and Process Automation.<br> #keeplearning.<br></p><br/>
 💻 My Tech Stack
-
+  <div><img src="https://logosandtypes.com/wp-content/uploads/2020/07/katalon.svg" height="45" alt="css3 logo"  />
+</div>
 Programming Languages  :rocket:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
@@ -13,7 +14,7 @@ Programming Languages  :rocket:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-</div>
+  <img width="25" />
 </br>
 
 🤖 Katalon Web Automation Test
