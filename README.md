@@ -30,7 +30,7 @@ My Tech Stack :
 </br>
 
 🤖 Katalon Web Automation Test
-- [katalon-web](https://github.com/) - Where I use Katalon Studio.
+- [Katalon Automate HnM](https://github.com/mazwaay/Katalon_Automate_HnM) - Where I use Katalon Studio.
 
 🤖 Selenium Python Automation Test
 - [selenium-python](https://github.com/) - Where I use Selenium Python.
