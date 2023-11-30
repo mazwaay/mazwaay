@@ -14,26 +14,27 @@
 
 My Tech Stack :
 <div align="left">
-  <img src="https://logosandtypes.com/wp-content/uploads/2020/07/katalon.svg" height="45" alt="katalon logo"  />
+  <img src="https://github.com/mazwaay/content/blob/master/katalon-logo.png" height="45" alt="katalon logo"  />
   <img width="5" />
-  <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" height="45" alt="selenium logo"  />
+  <img src="https://github.com/mazwaay/content/blob/master/selenium-logo.png" height="45" alt="selenium logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img src="https://github.com/mazwaay/content/blob/master/python-logo.svg" height="45" alt="python logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img src="https://github.com/mazwaay/content/blob/master/java-logo.svg" height="45" alt="java logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img src="https://github.com/mazwaay/content/blob/master/html5-logo.svg" height="45" alt="html5 logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img src="https://github.com/mazwaay/content/blob/master/css3-logo.svg" height="45" alt="css3 logo"  />
   <img width="5" />
 </div>
 </br>
 
 🤖 Katalon Web Automation Test
 - [Katalon Automate HnM](https://github.com/mazwaay/Katalon_Automate_HnM) - Where I use Katalon Studio.
+- [Website Sistemtoko Automation](https://github.com/mazwaay/website-sistemtoko-automation) - Where I use Katalon Studio.
 
 🤖 Selenium Python Automation Test
-- [selenium-python](https://github.com/) - Where I use Selenium Python.
+- [Selenium Web SwagLabs](https://github.com/mazwaay/Selenium-Web-SwagLabs) - Where I use Selenium Python.
 
 🤖 Katalon Mobile Automation Test
 - [katalon-mobile](https://github.com/) - Where I use Katalon Studio.
