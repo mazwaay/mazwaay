@@ -14,17 +14,17 @@
 
 My Tech Stack :
 <div align="left">
-  <img src="https://github.com/mazwaay/content/blob/master/katalon-logo.png" height="45" alt="katalon logo"  />
+  <img src="https://github.com/mazwaay/content/blob/master/Logos/katalon-logo.png" height="45" alt="katalon logo"  />
   <img width="5" />
-  <img src="https://github.com/mazwaay/content/blob/master/selenium-logo.png" height="45" alt="selenium logo"  />
+  <img src="https://github.com/mazwaay/content/blob/master/Logos/selenium-logo.png" height="45" alt="selenium logo"  />
   <img width="5" />
-  <img src="https://github.com/mazwaay/content/blob/master/python-logo.svg" height="45" alt="python logo"  />
+  <img src="https://github.com/mazwaay/content/blob/master/Logos/python-logo.svg" height="45" alt="python logo"  />
   <img width="5" />
-  <img src="https://github.com/mazwaay/content/blob/master/java-logo.svg" height="45" alt="java logo"  />
+  <img src="https://github.com/mazwaay/content/blob/master/Logos/java-logo.svg" height="45" alt="java logo"  />
   <img width="5" />
-  <img src="https://github.com/mazwaay/content/blob/master/html5-logo.svg" height="45" alt="html5 logo"  />
+  <img src="https://github.com/mazwaay/content/blob/master/Logos/html5-logo.svg" height="45" alt="html5 logo"  />
   <img width="5" />
-  <img src="https://github.com/mazwaay/content/blob/master/css3-logo.svg" height="45" alt="css3 logo"  />
+  <img src="https://github.com/mazwaay/content/blob/master/Logos/css3-logo.svg" height="45" alt="css3 logo"  />
   <img width="5" />
 </div>
 </br>
